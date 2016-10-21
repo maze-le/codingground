@@ -1,0 +1,1 @@
+{"id":"erlang","ext":"erl","version":"Erlang 17.4-6","compile":"erlc *.erl","execute":"erl -noshell -s helloworld start -s init stop","preview":"","command":"","file":"/home/cg/src/samples/helloworld.erl","url":"compile_erlang_online.php","mode":"erlang"}
